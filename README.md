@@ -115,10 +115,7 @@ zerowaste-farm/
 3. Commit your changes with a clear message.
 4. Push and open a Pull Request.
 ---
-## License
-MIT © 2026 ZeroWaste Farm.
----
 ## Contact
-**Live URL:** [https://zerowastefarm.com](https://zerowaste-three.vercel.app)
-**Email:** asiffoisalaisc@gmail.com
-**Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
+**Live URL:** [Zero Waste Live Site](https://zerowaste-three.vercel.app)
+**Email:** [asiffoisalaisc@email.com](mailto:asiffoisalaisc@email.com)  
+**Portfolio:** [GitHub Profile](https://github.com/AsifFoisal)
