@@ -11,7 +11,6 @@ A platform that connects farmers with buyers to reduce food waste.
 - [Folder Structure](#folder-structure)
 - [Contributions](#contributions)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 - [Contact](#contact)
 ---
 ## About the Project
