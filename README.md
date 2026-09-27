@@ -107,7 +107,7 @@ zerowaste-farm/
 ## Contributions
 | Name | Role | Contributions |
 |------|------|--------------|
-| Your Name | Maintainer | Core architecture, PR reviews |
+| G.M Asif Foisal | Maintainer | Core architecture, PR reviews |
 ---
 ## How to Contribute
 1. Fork the repository.
@@ -119,6 +119,6 @@ zerowaste-farm/
 MIT © 2026 ZeroWaste Farm.
 ---
 ## Contact
-**Live URL:** [https://zerowastefarm.com](https://zerowastefarm.com)
-**Email:** support@zerowastefarm.com
+**Live URL:** [https://zerowastefarm.com](https://zerowaste-three.vercel.app)
+**Email:** asiffoisalaisc@gmail.com
 **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
