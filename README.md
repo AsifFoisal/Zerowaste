@@ -107,7 +107,7 @@ zerowaste-farm/
 ## Contributions
 | Name | Role | Contributions |
 |------|------|--------------|
-| G.M Asif Foisal | Maintainer | Core architecture, PR reviews |
+| G.M Asif Foisal | Developer | Design Full System, Implementation |
 ---
 ## How to Contribute
 1. Fork the repository.
